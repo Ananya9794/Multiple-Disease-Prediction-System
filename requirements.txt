@@ -1,10 +1,6 @@
-os
-pickle
 streamlit 
 streamlit_option_menu
 pandas
 numpy
-matplotlib.pyplot
-sklearn.model_selection 
-sklearn 
-sklearn.metrics
+scikit-learn
+matplotlib
